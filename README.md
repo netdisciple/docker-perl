@@ -16,7 +16,7 @@
 ## Doing it Manually
 
 ### Build
-`docker build -t myperl:latest .`
+`docker build -t docker-perl:latest .`
 
 ### Test
-`docker run --rm -it myperl:latest`
+`docker run --rm -it docker-perl:latest`
